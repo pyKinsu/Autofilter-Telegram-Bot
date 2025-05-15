@@ -4,7 +4,7 @@ A clean and powerful Telegram AutoFilter Bot for (movies, videos, documents, etc
 
 > ✏️ **Note:** I am not the original creator of this codebase. I’ve only edited, cleaned, and published it for public use. The code had no specific author.
 
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-blue?logo=github)](https://github.com/pyKinsu/AutofilterTelegramBot)
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/pyKinsu/AutofilterTelegramBot)
 ---
 
 ## 🚀 Features

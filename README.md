@@ -4,7 +4,10 @@ A clean and powerful Telegram AutoFilter Bot for (movies, videos, documents, etc
 
 > ✏️ **Note:** I am not the original creator of this codebase. I’ve only edited, cleaned, and published it for public use. The code had no specific author.
 
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/pyKinsu/AutofilterTelegramBot)
+<a href="https://github.com/pyKinsu/AutofilterTelegramBot" target="_blank">
+  <img src="https://img.shields.io/badge/View%20on-GitHub-blue?style=plastic&logo=github" width="200" height="38.5" alt="View on GitHub" />
+</a>
+
 ---
 
 ## 🚀 Features
@@ -90,5 +93,4 @@ LOG_CHANNEL=-1001234567890
 ---
 
 ## 🤝 Support
-
->ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2> <p align="center"> <a href="https://telegram.me/kissuhelp"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a> </p> <p align="center"> <a href="https://telegram.me/kissubots"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a> </p> ```
+<h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2> <p align="center"> <a href="https://telegram.me/kissuhelp"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a> </p> <p align="center"> <a href="https://telegram.me/kissubots"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a> </p>

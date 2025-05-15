@@ -1,8 +1,3 @@
-
-
-### ✅ Final `README.md`
-
-````markdown
 # 📁 AutoFilter Telegram Bot
 
 A clean and powerful Telegram AutoFilter Bot that automatically indexes and retrieves files (movies, videos, documents, etc.) from a MongoDB database.
@@ -101,8 +96,4 @@ See the [LICENSE](./LICENSE) file for details.
 ## 🤝 Support
 
 For help or questions:
-📬 Telegram Contact → [@kissuhelp](https://t.me/kissuhelp)
-
-```
-
----
+📬 Telegram Contact → [@kissuhelp](https://t.me/kissuhelp

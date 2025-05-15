@@ -1,5 +1,5 @@
 # Core Dependencies
-pyrofork
+https://github.com/xaekks/pyrogram
 tgcrypto
 pymongo[srv]==3.12.3
 motor==2.5.1

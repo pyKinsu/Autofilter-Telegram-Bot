@@ -1,11 +1,10 @@
 # 📁 AutoFilter Telegram Bot
 
-A clean and powerful Telegram AutoFilter Bot that automatically indexes and retrieves files (movies, videos, documents, etc.) from a MongoDB database.
+A clean and powerful Telegram AutoFilter Bot for (movies, videos, documents, etc.) 
 
-> ✏️ **Note:** I am not the original creator of this codebase. I’ve only edited, cleaned, and published it for public use. The code had no specific author attribution when I received it.
+> ✏️ **Note:** I am not the original creator of this codebase. I’ve only edited, cleaned, and published it for public use. The code had no specific author.
 
-🔗 **GitHub Repo**: [pyKinsu/AutofilterTelegramBot](https://github.com/pyKinsu/AutofilterTelegramBot)
-
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-blue?logo=github)](https://github.com/pyKinsu/AutofilterTelegramBot)
 ---
 
 ## 🚀 Features
@@ -55,9 +54,7 @@ LOG_CHANNEL=-1001234567890
 
 ## 🚀 How to Deploy
 
-1. **Fork** the repository
-   [Click here to fork](https://github.com/pyKinsu/AutofilterTelegramBot/fork)
-
+1. [![Fork on GitHub](https://img.shields.io/badge/Fork%20this-Repository-success?logo=github)](https://github.com/pyKinsu/AutofilterTelegramBot/fork)
 2. Clone your forked repo:
 
    ```bash
@@ -81,8 +78,7 @@ LOG_CHANNEL=-1001234567890
 
 ## 🧾 License
 
-This project is licensed under the **MIT License**.
-See the [LICENSE](./LICENSE) file for details.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=opensourceinitiative)](./LICENSE)
 
 ---
 
@@ -96,4 +92,4 @@ See the [LICENSE](./LICENSE) file for details.
 ## 🤝 Support
 
 For help or questions:
-📬 Telegram Contact → [@kissuhelp](https://t.me/kissuhelp
+📬 Telegram Contact → [@kissuhelp(https://t.me/kissuhelp

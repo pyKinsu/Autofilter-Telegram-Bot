@@ -42,7 +42,6 @@ Use **your own values** – these are just placeholders.
 ```env
 DATABASE_URI=your_mongodb_uri_here
 DATABASE_NAME=your_database_name
-COLLECTION_NAME=your_collection_name
 API_ID=your_telegram_api_id
 API_HASH=your_telegram_api_hash
 BOT_TOKEN=your_bot_token

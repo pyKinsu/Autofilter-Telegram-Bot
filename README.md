@@ -20,20 +20,6 @@ A clean and powerful Telegram AutoFilter Bot for (movies, videos, documents, etc
 
 ---
 
-## 🛠️ Environment Variables
-
-| Variable          |  Values                                                  |
-|-------------------|---------------------------------------------------------------|
-| `DATABASE_URI`    | MongoDB URI (from MongoDB Atlas or your own server)          |
-| `DATABASE_NAME`   | MongoDB database name                                         |
-| `API_ID`          | Telegram API ID (get from [my.telegram.org](https://my.telegram.org)) |
-| `API_HASH`        | Telegram API Hash                                             |
-| `BOT_TOKEN`       | Token from [@BotFather](https://t.me/BotFather)              |
-| `ADMINS`          | Telegram user IDs of bot admins (comma-separated)            |
-| `LOG_CHANNEL`     | Telegram channel ID for logging events/errors                |
-
----
-
 ## 📦 Example `.env` File
 
 ```env

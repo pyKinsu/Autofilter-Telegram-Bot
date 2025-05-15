@@ -1,5 +1,5 @@
 # Core Dependencies
-https://github.com/xaekks/pyrogram
+pyrogram @ git+https://github.com/xaekks/pyrogram.git
 tgcrypto
 pymongo[srv]==3.12.3
 motor==2.5.1
@@ -8,8 +8,8 @@ umongo==3.0.1
 requests
 beautifulsoup4
 shortzy
-datetime  # (Note: Built-in, no install needed)
 pytz
+# datetime is built-in (no install needed)
 
 # Flask App Server
 Flask==2.2.2
@@ -23,7 +23,7 @@ Pillow==9.4.0
 qrcode
 
 # AI & Language Tools
-bard  # (Unofficial – install only if source is trusted)
+# 'bard' – install only if source is trusted (specify source if possible)
 google-generativeai
 googletrans==3.1.0a0
 gtts==2.3.1
@@ -31,6 +31,5 @@ lexica-api
 textblob
 langdetect
 
-
 # External Git Repo
-git+https://github.com/Joelkb/cinemagoer
+git+https://github.com/Joelkb/cinemagoer.git

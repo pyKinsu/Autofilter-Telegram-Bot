@@ -283,7 +283,7 @@ Yoᴜ ᴄᴀɴ use this module to change font style
 <b>ᴄᴏᴍᴍᴀɴᴅ</b> : /font ʏᴏᴜʀ ᴛᴇxᴛ ( ᴏᴘᴛɪᴏɴᴀʟ)
         <b> Eg:- /font ʜᴇʟʟᴏ</ʙ>"""
 
-TELE_TXT = """▫️Hᴇʟᴘ: ▪️ Tᴇʟᴇɢʀᴀᴘʜ ▪️
+    TELE_TXT = """▫️Hᴇʟᴘ: ▪️ Tᴇʟᴇɢʀᴀᴘʜ ▪️
      Tᴇʟᴇɢʀᴀᴘʜ Lɪɴᴋ Gᴇɴᴇʀᴀᴛᴏʀ
     Usᴀɢᴇ
     🤧 /telegraph - Sᴇɴᴅ Mᴇ Pʜᴏᴛᴏ Oʀ Vɪᴅᴇᴏ Uɴᴅᴇʀ(5ᴍʙ) Aɴᴅ Rᴇᴘʟʏ Wɪᴛʜ Cᴏᴍᴍᴀᴍɴᴅ"""

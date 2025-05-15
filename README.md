@@ -55,8 +55,7 @@ LOG_CHANNEL=-1001234567890
 ---
 
 ## 🚀 How to Deploy
-
-1. <a href="https://github.com/pyKinsu/AutofilterTelegramBot/fork" target="_blank">
+<a href="https://github.com/pyKinsu/AutofilterTelegramBot/fork" target="_blank">
   <img src="https://img.shields.io/badge/Fork%20this-Repository-success?logo=github&style=for-the-badge" width="200" height="38.5" alt="Fork this Repository" />
 </a>
 

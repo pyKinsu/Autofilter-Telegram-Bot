@@ -1,9 +1,4 @@
-"""
-AutoFilter Bot Broadcast Command 
 
-Modified and maintained by <@pykinsu>
-Originally created by @MKNTg
-"""
 from pyrogram import Client, filters
 import datetime
 import time

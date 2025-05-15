@@ -25,11 +25,10 @@ A clean and powerful Telegram AutoFilter Bot for (movies, videos, documents, etc
 To run the bot, set the following environment variables.  
 Use **your own values** – these are just placeholders.
 
-| Variable Name     | Description                                                   |
-|------------------|---------------------------------------------------------------|
+| Variable          |  Values                                                  |
+|-------------------|---------------------------------------------------------------|
 | `DATABASE_URI`    | MongoDB URI (from MongoDB Atlas or your own server)          |
 | `DATABASE_NAME`   | MongoDB database name                                         |
-| `COLLECTION_NAME` | MongoDB collection name for storing indexed files            |
 | `API_ID`          | Telegram API ID (get from [my.telegram.org](https://my.telegram.org)) |
 | `API_HASH`        | Telegram API Hash                                             |
 | `BOT_TOKEN`       | Token from [@BotFather](https://t.me/BotFather)              |
@@ -57,40 +56,26 @@ LOG_CHANNEL=-1001234567890
 
 ## 🚀 How to Deploy
 
-1. [![Fork on GitHub](https://img.shields.io/badge/Fork%20this-Repository-success?logo=github)](https://github.com/pyKinsu/AutofilterTelegramBot/fork)
-2. Clone your forked repo:
+1. <a href="https://github.com/pyKinsu/AutofilterTelegramBot/fork" target="_blank">
+  <img src="https://img.shields.io/badge/Fork%20this-Repository-success?logo=github&style=for-the-badge" width="200" height="38.5" alt="Fork this Repository" />
+</a>
 
-   ```bash
-   git clone https://github.com/your-username/AutofilterTelegramBot.git
-   cd AutofilterTelegramBot
-   ```
 
-3. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Create a `.env` file (or export variables) and run the bot:
-
-   ```bash
-   python3 bot.py
-   ```
 
 ---
 
 ## 🧾 License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=opensourceinitiative)](./LICENSE)
-
+<a href="./LICENSE" target="_blank">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=opensourceinitiative" width="200" height="38.5" alt="License: MIT" />
+</a>
 ---
 
 ## 🙏 Credits
 
-* 🛠 Code published and maintained by: [@pykinsu](https://t.me/pykinsu)
+* 🛠 Code published and maintained by: [@pykinsu](https://github.com/pykinsu)
 * ❌ No original developer attribution — published for free public use
 
 ---
 
-## 🤝 Support
-<h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2> <p align="center"> <a href="https://telegram.me/kissuhelp"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a> </p> <p align="center"> <a href="https://telegram.me/kissubots"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a> </p>
+<h2>🌟 Support <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2> <p align="center"> <a href="https://telegram.me/kissuhelp"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a> </p> <p align="center"> <a href="https://telegram.me/kissubots"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a> </p>

@@ -1,5 +1,5 @@
 # Core Dependencies
-pyrogram @ git+https://github.com/xaekks/pyrogram.git
+git+https://github.com/xaekks/pyrogram.git
 tgcrypto
 pymongo[srv]==3.12.3
 motor==2.5.1

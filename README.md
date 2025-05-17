@@ -41,7 +41,7 @@ LOG_CHANNEL=-1001234567890
   <img src="https://img.shields.io/badge/Fork%20this-Repository-success?logo=github&style=for-the-badge" width="200" height="38.5" alt="Fork this Repository" />
 </a>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=autofiltertelegrambot&repository=pyKinsu%2FAutofilterTelegramBot&branch=main&instance_type=free&instances_min=0&autoscaling_sleep_idle_delay=300&env%5BDATABASE_URI%5D=your_mongodb_uri_here&env%5BDATABASE_NAME%5D=your_database_name&env%5BAPI_ID%5D=&env%5BAPI_HASH%5D=&env%5BBOT_TOKEN%5D=&env%5BADMINS%5D=&env%5BLOG_CHANNEL%5D=
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=autofiltertelegrambot&repository=pyKinsu%2FAutofilterTelegramBot&branch=main&instance_type=free&instances_min=0&autoscaling_sleep_idle_delay=300&env%5BDATABASE_URI%5D=your_mongodb_uri_here&env%5BDATABASE_NAME%5D=your_database_name&env%5BAPI_ID%5D=&env%5BAPI_HASH%5D=&env%5BBOT_TOKEN%5D=&env%5BADMINS%5D=&env%5BLOG_CHANNEL%5D=)
 
 ---
 
